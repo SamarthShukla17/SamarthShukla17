@@ -4,6 +4,11 @@
 - 📫 Reach me: paarthsamarth@gmail.com or 23051778@kiit.ac.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a professional cricket player for my university.
+
+
+
+
+
  ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamarthShukla17&theme=vision-friendly-dark_icons=true)
 
 <!---
