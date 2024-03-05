@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamarthShukla17
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning frontend web development
-- 📫 How to reach me paarthsamarth@gmail.com or 23051778@kiit.ac.in
+- 📫 Reach me: paarthsamarth@gmail.com or 23051778@kiit.ac.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a professional cricket player for my university.
 
