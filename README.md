@@ -1,19 +1,31 @@
-### Hi there 👋, my name is Samarth
-#### I am a frontend web-developer
-![I am a frontend web-developer](https://media.licdn.com/dms/image/D5616AQGxMkM-ayUIkw/profile-displaybackgroundimage-shrink_350_1400/0/1709607993033?e=1715212800&v=beta&t=grRpAKZ0qe-GeMhB-HNquhpT18Tzllu04yP6PHv3oUU)
-
-I am an enthusiastic web developer, learning and creating new designs.
-
-Skills: JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Typescript/Javascript 
-- 📫 How to reach me: paarthsamarth@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I am a professional cricket player. 
+# 💫 About Me:
+🔭 I’m currently working on Javascript <br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about Frontend web development<br>⚡ Fun fact, I'm a professional cricketer
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SamarthShukla17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/samarth-shukla-9770462a4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/samarthwkb17/)  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samarthwkb17) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthShukla17)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamarthShukla17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamarthShukla17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthShukla17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SamarthShukla17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SamarthShukla17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SamarthShukla17&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/samarthwkb17) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
