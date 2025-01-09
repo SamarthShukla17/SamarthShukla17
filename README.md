@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Mistry Message](www.mistrymessage.online)
 
-- 🌱 I’m currently learning **Blockchain and ExpressJS**
+- 🌱 I’m currently learning **Data Sturctures and Algorithms**
 
 - 💬 Ask me about **Javascript**
 
