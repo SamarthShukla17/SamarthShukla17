@@ -9,9 +9,9 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on Open Source Contributions
+- 🔭 I’m currently working on OnChain contribution
 
-- 🌱 I’m currently learning **Data Sturctures and Algorithms**
+- 🌱 I’m currently learning **x402 protocol**
 
 - 💬 Ask me about **Javascript**
 
