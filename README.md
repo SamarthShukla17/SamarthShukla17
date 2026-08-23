@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **paarthsamarth@gmail.com** or **samarthofficial52@gmail.com**
+- 📫 How to reach me **samarthofficial52@gmail.com**
 
 - ⚡ Fun fact **I am a professional Cricketer**
 
