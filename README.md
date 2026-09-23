@@ -26,4 +26,4 @@ Full method and toolkit: **[read the methodology writeup](https://samarthshukla1
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sam39741) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthofficial52@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-shukla-986635379)
 
-<sub>Also builds full-stack web apps (TypeScript/Next.js) and used to play competitive cricket.</sub>
+<sub>I also build full-stack web apps (TypeScript/Next.js) and play competitive cricket.</sub>
